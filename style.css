@@ -59,12 +59,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*This ensures that the image is put to the left on its element.*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Same thing but for the right, you'll notice that 2 images are on the left while only this one is on the right*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*This controls the overall section regarding lead generation, brand awareness, and cost management.*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -202,7 +202,7 @@ p {
 .footer h2 {
     font-size: 30px;
 }
-
+/*This selector deals with every paragraph element that is a descendent of a div tag with this class. The class was given this long name to clarify that it deals with the 3 main bodies of content.*/
 div.SEO-Online-Reputation-Management-Social-Media-Marketing p {
     font-size: 27px;
     line-height: 43px 
