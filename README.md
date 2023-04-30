@@ -1,4 +1,4 @@
-# real-challenge-1
+# Real-Challenge-1
 ## Alt Attributes
 I added these attributes to every image to improve the accessibility of the site and improve the SEO of the website.
 ## Navigation Bug
